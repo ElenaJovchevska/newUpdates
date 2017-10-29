@@ -8,8 +8,8 @@
 /* Class = "UILabel"; text = "right_positioned"; ObjectID = "GUf-p5-Kqj"; */
 "GUf-p5-Kqj.text" = "right_positioned";
 
-/* Class = "UIButton"; normalTitle = "I do nothing"; ObjectID = "It1-ph-dCE"; */
-"It1-ph-dCE.normalTitle" = "I do nothing";
+/* Class = "UIButton"; normalTitle = "Hello, I do nothing"; ObjectID = "It1-ph-dCE"; */
+"It1-ph-dCE.normalTitle" = "Hello, I do nothing";
 
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "w48-O0-IMj"; */
 "w48-O0-IMj.title" = "Root View Controller";
