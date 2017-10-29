@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "left_positioned"; ObjectID = "AA0-Qo-Qe5"; */
+"AA0-Qo-Qe5.text" = "left_positioned";
+
+/* Class = "UILabel"; text = "middle_positioned"; ObjectID = "F5J-pc-eUg"; */
+"F5J-pc-eUg.text" = "middle_positioned";
+
+/* Class = "UILabel"; text = "right_positioned"; ObjectID = "GUf-p5-Kqj"; */
+"GUf-p5-Kqj.text" = "right_positioned";
+
+/* Class = "UIButton"; normalTitle = "I do nothing"; ObjectID = "It1-ph-dCE"; */
+"It1-ph-dCE.normalTitle" = "I do nothing";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "w48-O0-IMj"; */
+"w48-O0-IMj.title" = "Root View Controller";
