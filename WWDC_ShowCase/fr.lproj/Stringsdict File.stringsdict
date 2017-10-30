@@ -1,0 +1,10 @@
+{
+    label =     {
+        NSStringLocalizedFormatKey = "%#@label@";
+        label =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%d label";
+        };
+    };
+}

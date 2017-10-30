@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6AAEB19C1FA63F5F000FFBED /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AAEB19B1FA63F5F000FFBED /* AppDelegate.m */; };
-		6AAEB19F1FA63F5F000FFBED /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AAEB19E1FA63F5F000FFBED /* ViewController.m */; };
+		6AAEB19F1FA63F5F000FFBED /* UpdatingAppViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AAEB19E1FA63F5F000FFBED /* UpdatingAppViewController.m */; };
 		6AAEB1A21FA63F5F000FFBED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AAEB1A01FA63F5F000FFBED /* Main.storyboard */; };
 		6AAEB1A41FA63F5F000FFBED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AAEB1A31FA63F5F000FFBED /* Assets.xcassets */; };
 		6AAEB1A71FA63F5F000FFBED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AAEB1A51FA63F5F000FFBED /* LaunchScreen.storyboard */; };
@@ -17,7 +17,8 @@
 		6AAEB1BF1FA63F5F000FFBED /* WWDC_ShowCaseUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AAEB1BE1FA63F5F000FFBED /* WWDC_ShowCaseUITests.m */; };
 		6ADC20171FA64BA000B5EE39 /* LocalizingTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6ADC20161FA64BA000B5EE39 /* LocalizingTableViewController.m */; };
 		6ADC201F1FA6530200B5EE39 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6ADC20211FA6530200B5EE39 /* InfoPlist.strings */; };
-		6ADC20241FA6530200B5EE39 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6ADC20261FA6530200B5EE39 /* Localizable.strings */; };
+		6ADC20361FA7C02400B5EE39 /* Stringsdict File.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 6ADC20381FA7C02400B5EE39 /* Stringsdict File.stringsdict */; };
+		6ADC203E1FA7D02100B5EE39 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6ADC20401FA7D02100B5EE39 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,8 +42,8 @@
 		6AAEB1971FA63F5F000FFBED /* WWDC_ShowCase.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WWDC_ShowCase.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AAEB19A1FA63F5F000FFBED /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6AAEB19B1FA63F5F000FFBED /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		6AAEB19D1FA63F5F000FFBED /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		6AAEB19E1FA63F5F000FFBED /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		6AAEB19D1FA63F5F000FFBED /* UpdatingAppViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UpdatingAppViewController.h; sourceTree = "<group>"; };
+		6AAEB19E1FA63F5F000FFBED /* UpdatingAppViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UpdatingAppViewController.m; sourceTree = "<group>"; };
 		6AAEB1A11FA63F5F000FFBED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6AAEB1A31FA63F5F000FFBED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6AAEB1A61FA63F5F000FFBED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -57,10 +58,10 @@
 		6ADC20151FA64BA000B5EE39 /* LocalizingTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LocalizingTableViewController.h; sourceTree = "<group>"; };
 		6ADC20161FA64BA000B5EE39 /* LocalizingTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LocalizingTableViewController.m; sourceTree = "<group>"; };
 		6ADC201A1FA64C3300B5EE39 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
-		6ADC201B1FA64E5800B5EE39 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
-		6ADC201C1FA64E5B00B5EE39 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
 		6ADC20201FA6530200B5EE39 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		6ADC20251FA6530200B5EE39 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		6ADC20371FA7C02400B5EE39 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = en; path = "en.lproj/Stringsdict File.stringsdict"; sourceTree = "<group>"; };
+		6ADC203A1FA7D02000B5EE39 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
+		6ADC203F1FA7D02100B5EE39 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,12 +112,13 @@
 		6AAEB1991FA63F5F000FFBED /* WWDC_ShowCase */ = {
 			isa = PBXGroup;
 			children = (
-				6ADC20261FA6530200B5EE39 /* Localizable.strings */,
+				6ADC20401FA7D02100B5EE39 /* Localizable.strings */,
+				6ADC20381FA7C02400B5EE39 /* Stringsdict File.stringsdict */,
 				6ADC20211FA6530200B5EE39 /* InfoPlist.strings */,
 				6AAEB19A1FA63F5F000FFBED /* AppDelegate.h */,
 				6AAEB19B1FA63F5F000FFBED /* AppDelegate.m */,
-				6AAEB19D1FA63F5F000FFBED /* ViewController.h */,
-				6AAEB19E1FA63F5F000FFBED /* ViewController.m */,
+				6AAEB19D1FA63F5F000FFBED /* UpdatingAppViewController.h */,
+				6AAEB19E1FA63F5F000FFBED /* UpdatingAppViewController.m */,
 				6ADC20151FA64BA000B5EE39 /* LocalizingTableViewController.h */,
 				6ADC20161FA64BA000B5EE39 /* LocalizingTableViewController.m */,
 				6AAEB1A01FA63F5F000FFBED /* Main.storyboard */,
@@ -234,6 +236,7 @@
 			knownRegions = (
 				en,
 				Base,
+				fr,
 			);
 			mainGroup = 6AAEB18E1FA63F5F000FFBED;
 			productRefGroup = 6AAEB1981FA63F5F000FFBED /* Products */;
@@ -252,7 +255,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6ADC20241FA6530200B5EE39 /* Localizable.strings in Resources */,
+				6ADC20361FA7C02400B5EE39 /* Stringsdict File.stringsdict in Resources */,
+				6ADC203E1FA7D02100B5EE39 /* Localizable.strings in Resources */,
 				6AAEB1A71FA63F5F000FFBED /* LaunchScreen.storyboard in Resources */,
 				6ADC201F1FA6530200B5EE39 /* InfoPlist.strings in Resources */,
 				6AAEB1A41FA63F5F000FFBED /* Assets.xcassets in Resources */,
@@ -281,7 +285,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6AAEB19F1FA63F5F000FFBED /* ViewController.m in Sources */,
+				6AAEB19F1FA63F5F000FFBED /* UpdatingAppViewController.m in Sources */,
 				6ADC20171FA64BA000B5EE39 /* LocalizingTableViewController.m in Sources */,
 				6AAEB1AA1FA63F5F000FFBED /* main.m in Sources */,
 				6AAEB19C1FA63F5F000FFBED /* AppDelegate.m in Sources */,
@@ -324,8 +328,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				6AAEB1A11FA63F5F000FFBED /* Base */,
-				6ADC201B1FA64E5800B5EE39 /* en */,
-				6ADC201C1FA64E5B00B5EE39 /* fr */,
+				6ADC203A1FA7D02000B5EE39 /* fr */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -347,10 +350,18 @@
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		6ADC20261FA6530200B5EE39 /* Localizable.strings */ = {
+		6ADC20381FA7C02400B5EE39 /* Stringsdict File.stringsdict */ = {
 			isa = PBXVariantGroup;
 			children = (
-				6ADC20251FA6530200B5EE39 /* fr */,
+				6ADC20371FA7C02400B5EE39 /* en */,
+			);
+			name = "Stringsdict File.stringsdict";
+			sourceTree = "<group>";
+		};
+		6ADC20401FA7D02100B5EE39 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6ADC203F1FA7D02100B5EE39 /* fr */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

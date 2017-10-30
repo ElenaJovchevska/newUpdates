@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="WWDC_ShowCase/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body/>
+  </file>
+  <file original="WWDC_ShowCase/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body>
+      <trans-unit id="IJs-og-ZKf.title">
+        <source>Demo App for WWDC</source>
+        <note>Class = "UINavigationItem"; title = "Demo App for WWDC"; ObjectID = "IJs-og-ZKf";</note>
+      </trans-unit>
+      <trans-unit id="SxI-bj-ViZ.normalTitle">
+        <source>Click me!</source>
+        <target>Clique moi!</target>
+        <note>Class = "UIButton"; normalTitle = "Click me!"; ObjectID = "SxI-bj-ViZ";</note>
+      </trans-unit>
+      <trans-unit id="jTQ-Ux-Ov2.title">
+        <source>Root View Controller</source>
+        <note>Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "jTQ-Ux-Ov2";</note>
+      </trans-unit>
+      <trans-unit id="zBB-k4-mPd.text">
+        <source>Localizing with Xcode9</source>
+        <target>Localisation avec Xcode9</target>
+        <note>Class = "UILabel"; text = "Localizing with Xcode9"; ObjectID = "zBB-k4-mPd";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WWDC_ShowCase/Info.plist" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WWDC_ShowCase/Localizable.strings" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body>
+      <trans-unit id="%d label">
+        <source>%d label</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Localizing with Xcode9">
+        <source>Localizing with Xcode9</source>
+        <target>Localisation avec Xcode9</target>
+        <note>title of the UIView Controller</note>
+      </trans-unit>
+      <trans-unit id="left positioned">
+        <source>left positioned</source>
+        <target>positionné à gauche</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="middle positioned">
+        <source>middle positioned</source>
+        <target>milieu positionné</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="right positioned">
+        <source>right positioned</source>
+        <target>positionné à droite</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WWDC_ShowCase/en.lproj/Stringsdict File.stringsdict" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body>
+      <trans-unit id="/%d label:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>%#@variable@</source>
+      </trans-unit>
+      <trans-unit id="/%d label:dict/variable:dict/few:dict/:string">
+        <source>%d labels</source>
+      </trans-unit>
+      <trans-unit id="/%d label:dict/variable:dict/many:dict/:string">
+        <source>%d labels</source>
+      </trans-unit>
+      <trans-unit id="/%d label:dict/variable:dict/one:dict/:string">
+        <source>%d label</source>
+      </trans-unit>
+      <trans-unit id="/%d label:dict/variable:dict/other:dict/:string">
+        <source>%d labels</source>
+      </trans-unit>
+      <trans-unit id="/%d label:dict/variable:dict/two:dict/:string">
+        <source>%d labels</source>
+      </trans-unit>
+      <trans-unit id="/%d label:dict/variable:dict/zero:dict/:string">
+        <source>%d labels</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,27 +1,6 @@
-/* (No Comment) */
-"AA0-Qo-Qe5.text" = "positionné à gauche";
+/* Class = "UIButton"; normalTitle = "Click me!"; ObjectID = "SxI-bj-ViZ"; */
+"SxI-bj-ViZ.normalTitle" = "Clique moi!";
 
-/* (No Comment) */
-"F5J-pc-eUg.text" = "milieu positionné";
-
-/* Class = "UILabel"; text = "left positioned"; ObjectID = "FVt-nb-pvd"; */
-"FVt-nb-pvd.text" = "positionné à gauche";
-
-/* (No Comment) */
-"GUf-p5-Kqj.text" = "positionné à droite";
-
-/* (No Comment) */
-"It1-ph-dCE.normalTitle" = "Bonjuour, je ne fais rien";
-
-/* Class = "UILabel"; text = "middle positioned"; ObjectID = "Kjd-a8-Qae"; */
-"Kjd-a8-Qae.text" = "milieu positionné";
-
-/* Class = "UIButton"; normalTitle = "Hello, I do nothing"; ObjectID = "SxI-bj-ViZ"; */
-"SxI-bj-ViZ.normalTitle" = "Bonjuour, je ne fais rien";
-
-/* Class = "UILabel"; text = "right positioned"; ObjectID = "aQe-OI-4Ke"; */
-"aQe-OI-4Ke.text" = "positionné à droite";
-
-/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "jTQ-Ux-Ov2"; */
-"jTQ-Ux-Ov2.title" = "Root View Controller";
+/* Class = "UILabel"; text = "Localizing with Xcode9"; ObjectID = "zBB-k4-mPd"; */
+"zBB-k4-mPd.text" = "Localisation avec Xcode9";
 

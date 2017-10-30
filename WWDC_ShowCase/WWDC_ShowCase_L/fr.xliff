@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="WWDC_ShowCase/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body/>
+  </file>
+  <file original="WWDC_ShowCase/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body>
+      <trans-unit id="AA0-Qo-Qe5.text">
+        <source>left_positioned</source>
+        <target>positionné à gauche</target>
+      </trans-unit>
+      <trans-unit id="F5J-pc-eUg.text">
+        <source>middle_positioned</source>
+        <target>milieu positionné</target>
+      </trans-unit>
+      <trans-unit id="FVt-nb-pvd.text">
+        <source>left positioned</source>
+        <target>positionné à gauche</target>
+        <note>Class = "UILabel"; text = "left positioned"; ObjectID = "FVt-nb-pvd";</note>
+      </trans-unit>
+      <trans-unit id="GUf-p5-Kqj.text">
+        <source>right_positioned</source>
+        <target>positionné à droite</target>
+      </trans-unit>
+      <trans-unit id="It1-ph-dCE.normalTitle">
+        <source>Hello, I do nothing</source>
+        <target>Bonjuour, je ne fais rien</target>
+      </trans-unit>
+      <trans-unit id="Kjd-a8-Qae.text">
+        <source>middle positioned</source>
+        <target>milieu positionné</target>
+        <note>Class = "UILabel"; text = "middle positioned"; ObjectID = "Kjd-a8-Qae";</note>
+      </trans-unit>
+      <trans-unit id="SxI-bj-ViZ.normalTitle">
+        <source>Hello, I do nothing</source>
+        <target>Bonjuour, je ne fais rien</target>
+        <note>Class = "UIButton"; normalTitle = "Hello, I do nothing"; ObjectID = "SxI-bj-ViZ";</note>
+      </trans-unit>
+      <trans-unit id="aQe-OI-4Ke.text">
+        <source>right positioned</source>
+        <target>positionné à droite</target>
+        <note>Class = "UILabel"; text = "right positioned"; ObjectID = "aQe-OI-4Ke";</note>
+      </trans-unit>
+      <trans-unit id="jTQ-Ux-Ov2.title">
+        <source>Root View Controller</source>
+        <target>Root View Controller</target>
+        <note>Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "jTQ-Ux-Ov2";</note>
+      </trans-unit>
+      <trans-unit id="w48-O0-IMj.title">
+        <source>Root View Controller</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WWDC_ShowCase/Info.plist" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WWDC_ShowCase/Localizable.strings" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body>
+      <trans-unit id="Localizing with Xcode9">
+        <source>Localizing with Xcode9</source>
+        <target>Localisation avec Xcode9</target>
+        <note>title of the UIView Controller</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
