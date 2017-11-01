@@ -66,10 +66,6 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
     </header>
     <body>
-      <trans-unit id="%d dddd">
-        <source>%d dddd</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="%d textLabels">
         <source>%d textLabels</source>
         <note>No comment provided by engineer.</note>

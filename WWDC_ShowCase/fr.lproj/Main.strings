@@ -1,5 +1,11 @@
+/* Class = "UILabel"; text = "Updating your app for iOS 11"; ObjectID = "OrN-8t-3pl"; */
+"OrN-8t-3pl.text" = "Mise à jour de votre application";
+
 /* Class = "UIButton"; normalTitle = "Click me!"; ObjectID = "SxI-bj-ViZ"; */
 "SxI-bj-ViZ.normalTitle" = "Clique moi!";
+
+/* Class = "UILabel"; text = "Password AutoFill for App"; ObjectID = "yk9-zn-Veu"; */
+"yk9-zn-Veu.text" = "Mot de passe AutoFill pour l'app";
 
 /* Class = "UILabel"; text = "Localizing with Xcode9"; ObjectID = "zBB-k4-mPd"; */
 "zBB-k4-mPd.text" = "Localisation avec Xcode9";

@@ -9,13 +9,13 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "WWDC_ShowCase/ScrollViewController.m"
-            timestampString = "531241329.960063"
+            filePath = "WWDC_ShowCase/SafeAreaViewController.m"
+            timestampString = "531269030.441804"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "14"
-            endingLineNumber = "14"
-            landmarkName = "-viewDidLoad"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "-viewSafeAreaInsetsDidChange"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

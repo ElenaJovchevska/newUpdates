@@ -16,9 +16,11 @@
 		6AAEB1B41FA63F5F000FFBED /* WWDC_ShowCaseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AAEB1B31FA63F5F000FFBED /* WWDC_ShowCaseTests.m */; };
 		6AAEB1BF1FA63F5F000FFBED /* WWDC_ShowCaseUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AAEB1BE1FA63F5F000FFBED /* WWDC_ShowCaseUITests.m */; };
 		6ABCE6A61FAA05D100D2549F /* ScrollViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6ABCE6A51FAA05D100D2549F /* ScrollViewController.m */; };
+		6ABCE6A91FAA764700D2549F /* SafeAreaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6ABCE6A81FAA764700D2549F /* SafeAreaViewController.m */; };
+		6ABCE6AC1FAA7AD600D2549F /* CustomNavigationBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 6ABCE6AB1FAA7AD600D2549F /* CustomNavigationBar.m */; };
+		6ABCE6AD1FAA84C600D2549F /* Stringsdict File.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 6ADC20381FA7C02400B5EE39 /* Stringsdict File.stringsdict */; };
 		6ADC20171FA64BA000B5EE39 /* LocalizingTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6ADC20161FA64BA000B5EE39 /* LocalizingTableViewController.m */; };
 		6ADC201F1FA6530200B5EE39 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6ADC20211FA6530200B5EE39 /* InfoPlist.strings */; };
-		6ADC20361FA7C02400B5EE39 /* Stringsdict File.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 6ADC20381FA7C02400B5EE39 /* Stringsdict File.stringsdict */; };
 		6ADC203E1FA7D02100B5EE39 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6ADC20401FA7D02100B5EE39 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
@@ -58,6 +60,12 @@
 		6AAEB1C01FA63F5F000FFBED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6ABCE6A41FAA05D100D2549F /* ScrollViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ScrollViewController.h; sourceTree = "<group>"; };
 		6ABCE6A51FAA05D100D2549F /* ScrollViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScrollViewController.m; sourceTree = "<group>"; };
+		6ABCE6A71FAA764700D2549F /* SafeAreaViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SafeAreaViewController.h; sourceTree = "<group>"; };
+		6ABCE6A81FAA764700D2549F /* SafeAreaViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SafeAreaViewController.m; sourceTree = "<group>"; };
+		6ABCE6AA1FAA7AD600D2549F /* CustomNavigationBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomNavigationBar.h; sourceTree = "<group>"; };
+		6ABCE6AB1FAA7AD600D2549F /* CustomNavigationBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomNavigationBar.m; sourceTree = "<group>"; };
+		6ABCE6AE1FAA84CA00D2549F /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = Base; path = "Base.lproj/Stringsdict File.stringsdict"; sourceTree = "<group>"; };
+		6ABCE6AF1FAA90D900D2549F /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = fr; path = "fr.lproj/Stringsdict File.stringsdict"; sourceTree = "<group>"; };
 		6ADC20151FA64BA000B5EE39 /* LocalizingTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LocalizingTableViewController.h; sourceTree = "<group>"; };
 		6ADC20161FA64BA000B5EE39 /* LocalizingTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LocalizingTableViewController.m; sourceTree = "<group>"; };
 		6ADC201A1FA64C3300B5EE39 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
@@ -126,6 +134,10 @@
 				6ADC20161FA64BA000B5EE39 /* LocalizingTableViewController.m */,
 				6ABCE6A41FAA05D100D2549F /* ScrollViewController.h */,
 				6ABCE6A51FAA05D100D2549F /* ScrollViewController.m */,
+				6ABCE6A71FAA764700D2549F /* SafeAreaViewController.h */,
+				6ABCE6A81FAA764700D2549F /* SafeAreaViewController.m */,
+				6ABCE6AA1FAA7AD600D2549F /* CustomNavigationBar.h */,
+				6ABCE6AB1FAA7AD600D2549F /* CustomNavigationBar.m */,
 				6AAEB1A01FA63F5F000FFBED /* Main.storyboard */,
 				6AAEB1A31FA63F5F000FFBED /* Assets.xcassets */,
 				6AAEB1A51FA63F5F000FFBED /* LaunchScreen.storyboard */,
@@ -260,7 +272,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6ADC20361FA7C02400B5EE39 /* Stringsdict File.stringsdict in Resources */,
+				6ABCE6AD1FAA84C600D2549F /* Stringsdict File.stringsdict in Resources */,
 				6ADC203E1FA7D02100B5EE39 /* Localizable.strings in Resources */,
 				6AAEB1A71FA63F5F000FFBED /* LaunchScreen.storyboard in Resources */,
 				6ADC201F1FA6530200B5EE39 /* InfoPlist.strings in Resources */,
@@ -294,7 +306,9 @@
 				6AAEB19F1FA63F5F000FFBED /* UpdatingAppViewController.m in Sources */,
 				6ADC20171FA64BA000B5EE39 /* LocalizingTableViewController.m in Sources */,
 				6AAEB1AA1FA63F5F000FFBED /* main.m in Sources */,
+				6ABCE6A91FAA764700D2549F /* SafeAreaViewController.m in Sources */,
 				6AAEB19C1FA63F5F000FFBED /* AppDelegate.m in Sources */,
+				6ABCE6AC1FAA7AD600D2549F /* CustomNavigationBar.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -360,6 +374,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				6ADC20371FA7C02400B5EE39 /* en */,
+				6ABCE6AE1FAA84CA00D2549F /* Base */,
+				6ABCE6AF1FAA90D900D2549F /* fr */,
 			);
 			name = "Stringsdict File.stringsdict";
 			sourceTree = "<group>";

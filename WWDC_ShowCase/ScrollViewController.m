@@ -12,13 +12,12 @@
     [super viewDidLoad];
     shouldDetailLabelBeHidden = NO; self.navigationController.navigationBar.prefersLargeTitles = NO;
     self.navigationItem.largeTitleDisplayMode = UINavigationItemLargeTitleDisplayModeNever;
-    self.viewRespectsSystemMinimumLayoutMargins = YES;
     
     //Now you can set contentInset, adjustedContentInset is not represented in iOS 11.
     scrollView.contentInset = UIEdgeInsetsMake(50, 0, 0, 0);
     
-    //This piece of code, creates left inset for the scrollView, which is a language directional behaviour.
-//  scrollView.contentInset = UIEdgeInsetsMake(0, 50, 0, 0);
+    //This piece of code, creates left inset for the scrollView, which is a language directional behaviour + right-left pseudo + trailing to -10.
+   //scrollView.contentInset = UIEdgeInsetsMake(50, 50, 0, 0);
     [self setupDetailTextLabel];
     
 }
